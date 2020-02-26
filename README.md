@@ -12,3 +12,9 @@ Then Drag'n'drop it onto the exe, it should output a new dll which is the latest
 To build the project you must take both folders an add them into a solution. I had them on seperate IDE's, which kinda fucked me over in the long run. So sorry about that.
 
 No SLN's :(
+
+## Libraries Used
+- Dnlib
+because yes.
+
+(find it, star it, love it, here)[https://github.com/0xd4d/dnlib/]
