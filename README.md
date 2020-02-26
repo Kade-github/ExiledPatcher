@@ -17,4 +17,4 @@ No SLN's :(
 - Dnlib
 because yes.
 
-(find it, star it, love it, here)[https://github.com/0xd4d/dnlib/]
+[find it, star it, love it, here](https://github.com/0xd4d/dnlib/)
