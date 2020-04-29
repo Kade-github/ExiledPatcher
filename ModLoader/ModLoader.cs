@@ -17,7 +17,7 @@ namespace Loader
 		// Token: 0x06002342 RID: 9026 RVA: 0x000B10B4 File Offset: 0x000AF2B4
 		public static byte[] ReadFile(string path)
 		{
-			FileStream fileStream = File.Open(path, FileMode.Open);
+			FileStream fileStream = File.Open(path, FileMode.Open, FileAccess.Read);
 			byte[] result;
 			using (MemoryStream memoryStream = new MemoryStream())
 			{
