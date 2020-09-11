@@ -1,6 +1,9 @@
 # ExiledPatcher
 This, was orginally made for Joker (The creator of EXILED). But was then changed for everyone, this tool allows you to completly update exiled to the latest version of SL!
 
+# Creative Commons
+Read more [here](https://github.com/KadeDev/ExiledPatcher/blob/master/LICENSE.md)
+
 ## How to use
 Download it from [the releases](https://github.com/KadeDev/ExiledPatcher/releases/latest)
 
